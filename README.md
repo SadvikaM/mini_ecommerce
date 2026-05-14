@@ -93,7 +93,7 @@ npm start
 <img width="1157" height="904" alt="cart page" src="https://github.com/user-attachments/assets/b1860b47-3552-4ada-959c-678787e59d9e" />
 <img width="1232" height="881" alt="orders page" src="https://github.com/user-attachments/assets/0ddcdba1-b689-4b77-8720-ca002f0fb93a" />
 <img width="973" height="451" alt="Order delivery" src="https://github.com/user-attachments/assets/3956aa62-8618-4b4b-8f14-57b68eef0652" />
-<img width="828" height="657" alt="profile page" src="https://github.com/user-attachments/assets/41f6d0bb-cad0-4e77-8c80-d1e8e6fb2d75" />
+
 
 ---
 
