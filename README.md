@@ -23,8 +23,8 @@ Example:
 * HTML
 * CSS
 * JavaScript
-*Python
-*Flask
+* Python
+* Flask
 
 ---
 
